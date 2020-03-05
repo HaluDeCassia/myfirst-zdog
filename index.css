@@ -1,0 +1,9 @@
+.zdog-space {
+  display: flex;
+  justify-content: center;
+}
+
+.zdog-burger, .zdog-duck {
+  background: #FDB;
+  cursor: move;
+}
